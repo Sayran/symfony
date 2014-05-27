@@ -1,0 +1,5 @@
+<h1>News</h1>
+{% for item in news %}
+        {{ item.title }} by {{ item.author }}<br>
+        {{ item.content }}<br>
+{% endfor %}
