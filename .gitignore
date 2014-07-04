@@ -10,12 +10,4 @@
 /bin/
 /composer.phar
 
-.idea/.name
-.idea/encodings.xml
-.idea/frameworkRootSettings.xml
-.idea/workspace.xml
-.idea/vcs.xml
-.idea/symfony.iml
-.idea/scopes/scope_settings.xml
-.idea/modules.xml
-.idea/misc.xml
+/.idea/
